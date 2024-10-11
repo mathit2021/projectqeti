@@ -1,0 +1,23 @@
+*{
+	background-color: beige;
+}
+
+h3{
+	font-size: 25px;
+	color : black;
+	
+}
+p{
+font-size: 20px;
+color :black;
+background-color: powderblue;
+text-align: justify;
+padding: 20px
+}
+
+div{
+
+	background-color: #102030;
+	width: 80%;
+
+}
