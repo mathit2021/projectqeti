@@ -1,0 +1,52 @@
+
+body{
+	background-color: #fde4cf;
+}
+.baneri{
+	background-color: #90e0ef ;
+	color: #99582a ;
+	font-size: 90px;
+	padding: 20px;
+}
+.logo{
+	font-size: 100px;
+}
+
+#geoname{
+	font-size: 60px;
+	font-family:"KA_LORTKIPANIDZE";
+}
+
+#engname{
+	font-size: 100px;
+	font-family: Griffy;
+}
+
+.info{
+	background-color: #dde7c7;
+	font-size: 20px;
+	padding: 35px;
+	text-align: justify;
+	box-shadow: 5px 5px 10px black;
+	width: 70%;
+	font-family: Geo-TabidzeNusx-ASTER;
+}
+
+.arrow{
+	color: red;
+	font-size: 30px;
+}
+
+.contact{
+	font-size: 25px;
+	font-family: BPG Excelsior Black Condenced ;
+	text-align: center;
+}
+.konteineri{
+	background-color: silver;
+	width: 30%;
+
+}
+.simbolo{
+	color: orange;
+}
